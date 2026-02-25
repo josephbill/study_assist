@@ -1,19 +1,25 @@
 [
   {
     "topic": "Unsupervised Learning",
-    "count": 1,
+    "count": 2,
     "mistakes": [
       {
         "question": "Which algorithm is commonly used for unsupervised learning?",
         "user_answer": "D - Neural Networks",
         "correct_answer": "B - K-Means Clustering",
         "timestamp": "2026-02-24T21:35:03.694950"
+      },
+      {
+        "question": "Which algorithm is commonly used for unsupervised learning?",
+        "user_answer": "A - Linear Regression",
+        "correct_answer": "B - K-Means Clustering",
+        "timestamp": "2026-02-25T10:19:20.531881"
       }
     ]
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 5,
+    "count": 7,
     "mistakes": [
       {
         "question": "What is the goal of reinforcement learning?",
@@ -44,12 +50,24 @@
         "user_answer": "B - To discover hidden patterns or intrinsic structures",
         "correct_answer": "C - To maximize cumulative reward over time",
         "timestamp": "2026-02-24T21:35:55.499251"
+      },
+      {
+        "question": "What is the goal of reinforcement learning?",
+        "user_answer": "B - To discover hidden patterns or intrinsic structures",
+        "correct_answer": "C - To maximize cumulative reward over time",
+        "timestamp": "2026-02-25T10:19:41.145278"
+      },
+      {
+        "question": "What is the goal of reinforcement learning?",
+        "user_answer": "B - To discover hidden patterns or intrinsic structures",
+        "correct_answer": "C - To maximize cumulative reward over time",
+        "timestamp": "2026-02-25T10:19:55.414264"
       }
     ]
   },
   {
     "topic": "Model Evaluation",
-    "count": 5,
+    "count": 23,
     "mistakes": [
       {
         "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
@@ -80,6 +98,114 @@
         "user_answer": "B - Underfitting",
         "correct_answer": "A - Overfitting",
         "timestamp": "2026-02-24T21:37:11.908369"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:20:34.347162"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:20:41.618733"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:20:57.802492"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:21:14.086120"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:21:32.155105"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:21:48.417812"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:22:05.687740"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:22:23.927168"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:22:43.194732"
+      },
+      {
+        "question": "What is the term for a model that performs well on training data but poorly on unseen data?",
+        "user_answer": "C - Regularization",
+        "correct_answer": "A - Overfitting",
+        "timestamp": "2026-02-25T10:23:01.551290"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "D - To increase model complexity",
+        "correct_answer": "A - To prevent overfitting",
+        "timestamp": "2026-02-25T10:23:18.864221"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "D - To increase model complexity",
+        "correct_answer": "A - To prevent overfitting",
+        "timestamp": "2026-02-25T10:23:33.571085"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "D - To increase model complexity",
+        "correct_answer": "A - To prevent overfitting",
+        "timestamp": "2026-02-25T10:23:49.920279"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "D - To increase model complexity",
+        "correct_answer": "A - To prevent overfitting",
+        "timestamp": "2026-02-25T10:24:06.305519"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "D - To increase model complexity",
+        "correct_answer": "A - To prevent overfitting",
+        "timestamp": "2026-02-25T10:24:23.893465"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "D - To increase model complexity",
+        "correct_answer": "A - To prevent overfitting",
+        "timestamp": "2026-02-25T10:24:44.460542"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "D - To increase model complexity",
+        "correct_answer": "A - To prevent overfitting",
+        "timestamp": "2026-02-25T10:24:59.972582"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "D - To increase model complexity",
+        "correct_answer": "A - To prevent overfitting",
+        "timestamp": "2026-02-25T10:25:18.263699"
       }
     ]
   },
@@ -92,6 +218,66 @@
         "user_answer": "B - To improve model accuracy",
         "correct_answer": "D - All of the above",
         "timestamp": "2026-02-24T21:37:27.018379"
+      }
+    ]
+  },
+  {
+    "topic": "Supervised Learning",
+    "count": 2,
+    "mistakes": [
+      {
+        "question": "What type of learning involves training a model on labeled data to learn a mapping function from inputs to outputs?",
+        "user_answer": "A - Unsupervised Learning",
+        "correct_answer": "B - Supervised Learning",
+        "timestamp": "2026-02-25T10:30:48.739571"
+      },
+      {
+        "question": "What type of learning involves training a model on labeled data to learn a mapping function from inputs to outputs?",
+        "user_answer": "A - Unsupervised Learning",
+        "correct_answer": "B - Supervised Learning",
+        "timestamp": "2026-02-25T10:33:02.342080"
+      }
+    ]
+  },
+  {
+    "topic": "Overfitting",
+    "count": 3,
+    "mistakes": [
+      {
+        "question": "What is overfitting in machine learning?",
+        "user_answer": "D - When a model is used for regression problems",
+        "correct_answer": "B - When a model performs well on training data but poorly on unseen data",
+        "timestamp": "2026-02-25T10:31:20.559394"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "user_answer": "D - When a model is used for regression problems",
+        "correct_answer": "B - When a model performs well on training data but poorly on unseen data",
+        "timestamp": "2026-02-25T10:31:39.915983"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "user_answer": "D - When a model is used for regression problems",
+        "correct_answer": "B - When a model performs well on training data but poorly on unseen data",
+        "timestamp": "2026-02-25T10:33:02.349508"
+      }
+    ]
+  },
+  {
+    "topic": "Validation Set",
+    "count": 2,
+    "mistakes": [
+      {
+        "question": "What is the purpose of the validation set in machine learning?",
+        "user_answer": "A - To train the model",
+        "correct_answer": "B - To tune model hyperparameters",
+        "timestamp": "2026-02-25T10:32:19.676324"
+      },
+      {
+        "question": "What is the purpose of the validation set in machine learning?",
+        "user_answer": "A - To train the model",
+        "correct_answer": "B - To tune model hyperparameters",
+        "timestamp": "2026-02-25T10:33:02.356520"
       }
     ]
   }
