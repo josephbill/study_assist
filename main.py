@@ -14,7 +14,6 @@
 
 import os
 import sys
-import json
 from colorama import Fore, Style, init
 
 init(autoreset=True)

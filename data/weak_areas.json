@@ -1,0 +1,170 @@
+[
+  {
+    "topic": "Machine Learning",
+    "count": 4,
+    "mistakes": [
+      {
+        "question": "What is overfitting in machine learning?",
+        "user_answer": "D - When a model is trained on unlabeled data",
+        "correct_answer": "B - When a model performs well on training data but poorly on unseen data",
+        "timestamp": "2026-02-26T20:12:29.275129"
+      },
+      {
+        "question": "What is the purpose of the validation set in machine learning?",
+        "user_answer": "D - To discover hidden patterns",
+        "correct_answer": "B - To tune model hyperparameters",
+        "timestamp": "2026-02-26T20:13:02.433999"
+      },
+      {
+        "question": "What is the purpose of the validation set in machine learning?",
+        "user_answer": "D - To discover hidden patterns",
+        "correct_answer": "B - To tune model hyperparameters",
+        "timestamp": "2026-02-26T20:13:20.962014"
+      },
+      {
+        "question": "What is the purpose of the validation set in machine learning?",
+        "user_answer": "D - To discover hidden patterns",
+        "correct_answer": "B - To tune model hyperparameters",
+        "timestamp": "2026-02-26T20:14:01.445382"
+      }
+    ]
+  },
+  {
+    "topic": "Unsupervised Learning",
+    "count": 4,
+    "mistakes": [
+      {
+        "question": "Which of the following is an example of unsupervised learning?",
+        "user_answer": "A - Email spam detection",
+        "correct_answer": "B - Customer segmentation",
+        "timestamp": "2026-05-25T22:09:21.836453"
+      },
+      {
+        "question": "Which of the following is an example of unsupervised learning?",
+        "user_answer": "A - Email spam detection",
+        "correct_answer": "B - Customer segmentation",
+        "timestamp": "2026-05-25T22:12:04.185878"
+      },
+      {
+        "question": "Which of the following is an example of unsupervised learning?",
+        "user_answer": "A - Email spam detection",
+        "correct_answer": "B - Customer segmentation",
+        "timestamp": "2026-05-26T20:35:07.449881"
+      },
+      {
+        "question": "Which of the following is an example of unsupervised learning?",
+        "user_answer": "A - Email spam detection",
+        "correct_answer": "B - Customer segmentation",
+        "timestamp": "2026-05-26T20:37:22.434821"
+      }
+    ]
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "count": 7,
+    "mistakes": [
+      {
+        "question": "What is the goal of reinforcement learning?",
+        "user_answer": "A - To learn a mapping function from inputs to outputs",
+        "correct_answer": "C - To maximize cumulative reward over time",
+        "timestamp": "2026-05-25T22:10:03.451831"
+      },
+      {
+        "question": "What is the goal of reinforcement learning?",
+        "user_answer": "A - To learn a mapping function from inputs to outputs",
+        "correct_answer": "C - To maximize cumulative reward over time",
+        "timestamp": "2026-05-25T22:10:42.509520"
+      },
+      {
+        "question": "What is the goal of reinforcement learning?",
+        "user_answer": "A - To learn a mapping function from inputs to outputs",
+        "correct_answer": "C - To maximize cumulative reward over time",
+        "timestamp": "2026-05-25T22:12:04.206402"
+      },
+      {
+        "question": "What is the goal of reinforcement learning?",
+        "user_answer": "A - To learn a mapping function from inputs to outputs",
+        "correct_answer": "C - To maximize cumulative reward over time",
+        "timestamp": "2026-05-26T20:35:30.117221"
+      },
+      {
+        "question": "What is the goal of reinforcement learning?",
+        "user_answer": "A - To learn a mapping function from inputs to outputs",
+        "correct_answer": "C - To maximize cumulative reward over time",
+        "timestamp": "2026-05-26T20:35:48.763299"
+      },
+      {
+        "question": "What is the goal of reinforcement learning?",
+        "user_answer": "A - To learn a mapping function from inputs to outputs",
+        "correct_answer": "C - To maximize cumulative reward over time",
+        "timestamp": "2026-05-26T20:36:08.099604"
+      },
+      {
+        "question": "What is the goal of reinforcement learning?",
+        "user_answer": "A - To learn a mapping function from inputs to outputs",
+        "correct_answer": "C - To maximize cumulative reward over time",
+        "timestamp": "2026-05-26T20:37:22.463840"
+      }
+    ]
+  },
+  {
+    "topic": "Data Splitting",
+    "count": 9,
+    "mistakes": [
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "A - To evaluate model performance",
+        "correct_answer": "D - All of the above",
+        "timestamp": "2026-05-25T22:10:43.125497"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "A - To evaluate model performance",
+        "correct_answer": "D - All of the above",
+        "timestamp": "2026-05-25T22:11:20.620058"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "A - To evaluate model performance",
+        "correct_answer": "D - All of the above",
+        "timestamp": "2026-05-25T22:11:21.224608"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "A - To evaluate model performance",
+        "correct_answer": "D - All of the above",
+        "timestamp": "2026-05-25T22:11:44.493785"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "A - To evaluate model performance",
+        "correct_answer": "D - All of the above",
+        "timestamp": "2026-05-25T22:12:04.228007"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "A - To evaluate model performance",
+        "correct_answer": "D - All of the above",
+        "timestamp": "2026-05-26T20:36:25.417079"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "A - To evaluate model performance",
+        "correct_answer": "D - All of the above",
+        "timestamp": "2026-05-26T20:36:44.443897"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "A - To evaluate model performance",
+        "correct_answer": "D - All of the above",
+        "timestamp": "2026-05-26T20:37:04.150623"
+      },
+      {
+        "question": "What is the purpose of splitting data into train, validation, and test sets?",
+        "user_answer": "A - To evaluate model performance",
+        "correct_answer": "D - All of the above",
+        "timestamp": "2026-05-26T20:37:22.489437"
+      }
+    ]
+  }
+]
